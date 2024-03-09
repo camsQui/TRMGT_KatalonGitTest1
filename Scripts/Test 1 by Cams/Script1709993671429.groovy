@@ -20,6 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.wattpad.com/')
+WebUI.navigateToUrl('https://chat.openai.com/')
 
 WebUI.closeBrowser()
 
